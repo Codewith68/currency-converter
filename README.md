@@ -20,7 +20,7 @@ A **React-based currency converter** that lets you convert between **any two cur
 git clone https://github.com/YOUR_USERNAME/currency-converter-app.git
 ```
 
-![App Screenshot](./currency convert.png)
+![Image Alt](currency convert.png)
 
 
 
