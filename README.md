@@ -18,6 +18,11 @@ A **React-based currency converter** that lets you convert between **any two cur
 1. **Clone the repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/currency-converter-app.git
+```
 
 
-![App Screenshot](./currency convert.png)
+
+
+![App Screenshot](./"C:\Users\subra\OneDrive\Pictures\Screenshots\currency convert.png")
+
+
